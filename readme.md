@@ -1,29 +1,6 @@
 # Inventory System
 
-C++ Inventory System in de command line.
+To learn more about C++'s vectors (lists). I decided to make an inventory system in C++. 
 
-## Features
-
-- [PathHelper](https://github.com/stepperman/inventorysystem/blob/master/Helpers/PathHelper.h) (Wordt niet gebruikt maar nog steeds wel cool) 
-- [Clone method](https://github.com/stepperman/inventorysystem/blob/master/Models/Item.h#L13) 
-- het is een inventory
-
-## Software Anaylse 
-
-Ik wil meer over C++ leren dus ik ben voor C++ gegaan.
-
-## Leerdoelen 
-- meer C++ dan voorheen leren
-
-## Planning 
-Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om precies te doen?
-
-| | maandag | dinsdag | woensdag | donderdag | vrijdag |
-| --- | --- | --- | --- | --- | --- |
-|week 1 | 
-|week 2 | | aan inventory systeem werken | aan inventory systeem werken, readme schrijven, en inleveren. | Portfolio/reflectie schrijven | 
-
-## Bronnen
-Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
-
-[stackoverflow](https://stackoverflow.com)
+This is capable of adding items to your inventory and using them. Items can have infinite uses or a limited amount.  
+Currently the items are hardcoded, but the bare functionality for loading them in via external sources is implemented.
